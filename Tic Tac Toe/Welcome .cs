@@ -38,10 +38,5 @@ namespace Tic_Tac_Toe
             this.Show(); // Show Welcome again after frmGame is closed
  
         }
-
-        private void Welcome_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

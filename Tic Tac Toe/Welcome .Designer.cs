@@ -114,7 +114,6 @@
             this.Controls.Add(this.pictureBox2);
             this.Name = "Welcome";
             this.Text = "Welcome";
-            this.Load += new System.EventHandler(this.Welcome_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
