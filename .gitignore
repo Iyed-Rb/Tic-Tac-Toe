@@ -1,0 +1,12 @@
+bin/
+obj/
+*.exe
+*.user
+*.suo
+*.log
+.vscode/
+Debug/
+Release/
+*.db
+*.DS_Store
+*.pdb
